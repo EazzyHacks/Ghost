@@ -11,7 +11,6 @@ const handler = async (m, { conn, usedPrefix, command, args, isOwner, isAdmin, i
 
   // Verificación manual de permisos para evitar problemas con @lid
   let manualIsOwner = isOwner
-  let manualIsAdmin = isAdmin
   let manualIsROwner = isROwner
 
   // Verificar owner manualmente si no está detectado
