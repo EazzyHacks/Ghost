@@ -59,8 +59,7 @@ let handler = async (m, { conn, args }) => {
   }
 }
 
-handler.command = ['Vs4']
-
+handler.command = ['vs4', 'vs4']
 // Función para manejar las reacciones
 handler.before = async function (m) {
   if (!m.message?.reactionMessage) return false
