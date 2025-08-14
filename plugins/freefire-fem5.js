@@ -61,7 +61,7 @@ let handler = async (m, { conn, args }) => {
 
 handler.help = ['Fem5']
 handler.tags = ['ffsurr']
-handler.command = /^(Fem5)$/i
+handler.command = ['Fem5']
 handler.group = true
 handler.admin = true
 
