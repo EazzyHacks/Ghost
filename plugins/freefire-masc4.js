@@ -59,11 +59,7 @@ let handler = async (m, { conn, args }) => {
   }
 }
 
-handler.help = ['Vs4']
-handler.tags = ['ffsurr']
 handler.command = ['Vs4']
-handler.group = true
-handler.admin = true
 
 // Función para manejar las reacciones
 handler.before = async function (m) {
