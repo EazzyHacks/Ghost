@@ -29,8 +29,8 @@ let handler = async (m, { conn, args }) => {
 
   let plantilla = `
 ⏰| 𝑯𝒐𝒓𝒂:  ${horaUsuario}🇦🇷  ${horaAdelantada}🇵🇪
-🏯| 𝑴𝒐𝒅𝒐: Apostado Masc
-⚔️| 𝑹𝒊𝒗𝒂𝒍: ${modalidad}
+🏯| 𝑴𝒐𝒅𝒐: Apostado
+⚔️| 𝙂𝙚𝙣𝙚𝙧𝙤 : ${modalidad}
 
 ╭── ⋆⋅☆⋅⋆ ──┈┈
 │˚.⋆🥷🏻 → 
@@ -59,9 +59,9 @@ let handler = async (m, { conn, args }) => {
   }
 }
 
-handler.help = ['M4']
+handler.help = ['Vs4']
 handler.tags = ['ffsurr']
-handler.command = ['M4']
+handler.command = ['Vs4']
 handler.group = true
 handler.admin = true
 
