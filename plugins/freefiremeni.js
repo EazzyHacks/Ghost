@@ -1,13 +1,10 @@
 const handler = async (m, {conn}) => {
-  m.reply(global.menuff);
+  m.reply(global.freefire);
 };
-handler.command = /^(menuff|menuff)$/i;
+handler.command = /^(freefire|freefire)$/i;
 export default handler;
-handler.admin = true
-handler.group = true
-handler.botAdmin = false
 
-global.menuff = `
+global.freefire = `
 ┏━━━━•💌 Ghost Mode Supreme 💌•━━━━┓
 ┃╭─────────♡─────────╮
 ┃┊•🔮¡𝙃𝙊𝙇𝘼!
