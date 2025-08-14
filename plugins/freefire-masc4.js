@@ -59,9 +59,9 @@ let handler = async (m, { conn, args }) => {
   }
 }
 
-handler.help = ['Masc4']
+handler.help = ['M4']
 handler.tags = ['ffsurr']
-handler.command = ['Masc4']
+handler.command = ['M4']
 handler.group = true
 handler.admin = true
 
