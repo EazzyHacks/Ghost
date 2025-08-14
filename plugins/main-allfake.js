@@ -39,13 +39,13 @@ global.año = d.toLocaleDateString('es', {year: 'numeric'})
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true})
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
 global.emojis = [emoji, emoji2, emoji3, emoji4].getRandom()
-global.packsticker = `°.⎯⃘̶⎯̸⎯ܴ⎯̶᳞͇ࠝ⎯⃘̶⎯̸⎯ܴ⎯̶᳞͇ࠝ⎯⃘̶⎯̸.°\n❀ Bot: ${global.botname}\n✦ Fecha: ${fecha}\nⴵ Hora: ${tiempo}`;
-global.packsticker2 = `\n°.⎯⃘̶⎯̸⎯ܴ⎯̶᳞͇ࠝ⎯⃘̶⎯̸⎯ܴ⎯̶᳞͇ࠝ⎯⃘̶⎯̸.°\n\n${dev}`
+global.packsticker = `\n❀ Bot: ${global.botname}\n✦ Fecha: ${fecha}\nⴵ Hora: ${tiempo}`;
+global.packsticker2 = `\n\n\n${dev}`
   
 var canal = global.canalLink 
 var comunidad = global.comunidad1
-var git = `https://github.com/${global.repo}`
-var github = `https://github.com/${global.repo}`
+var git = `${global.repo}`
+var github = `${global.repo}`
 let correo = global.correo
 global.redes = [canal, comunidad, git, github, correo].getRandom()
 
