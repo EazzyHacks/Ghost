@@ -1,10 +1,10 @@
 const handler = async (m, {conn}) => {
-  m.reply(global.freefire);
+  m.reply(global.menu2);
 };
-handler.command = /^(freefire|freefire)$/i;
+handler.command = /^(menu2|menu2)$/i;
 export default handler;
 
-global.freefire = `
+global.menu2 = `
 ┏━━━━•💌 Ghost Mode Supreme 💌•━━━━┓
 ┃╭─────────♡─────────╮
 ┃┊•🔮¡𝙃𝙊𝙇𝘼!
