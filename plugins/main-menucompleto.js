@@ -94,8 +94,8 @@ ${estiloSeleccionado.footer}
       externalAdReply: {
         title: global.botname,
         body: "Un amor que nunca se acaba Jeje <3",
-        thumbnailUrl: global.banner2 || 'https://files.catbox.moe/l8ohvs.jpeg',
-        sourceUrl: global.channel || 'https://whatsapp.com/channel/0029VayXJte65yD6LQGiRB0R',
+        thumbnailUrl: global.banner2 || 'https://files.catbox.moe/z604jy.jpeg',
+        sourceUrl: global.channel || 'https://whatsapp.com/channel/0029Vb5oUp43LdQUVViHwc0m',
         mediaType: 1,
         showAdAttribution: true,
         renderLargerThumbnail: true,
@@ -114,7 +114,7 @@ ${estiloSeleccionado.footer}
       mentionedJid: [m.sender, userId],
       isForwarded: true,
       forwardedNewsletterMessageInfo: {
-        newsletterJid: global.canalIdM?.[0] || '120363372883715167@newsletter',
+        newsletterJid: global.canalIdM?.[0] || '120363419947391620@newsletter',
         newsletterName: global.botname,
         serverMessageId: -1,
       },
@@ -122,8 +122,8 @@ ${estiloSeleccionado.footer}
       externalAdReply: {
         title: global.botname,
         body: "Un amor que nunca se acaba Jeje <3",
-        thumbnailUrl: global.banner2 || 'https://files.catbox.moe/l8ohvs.jpeg',
-        sourceUrl: global.channel || 'https://whatsapp.com/channel/0029VayXJte65yD6LQGiRB0R',
+        thumbnailUrl: global.banner2 || 'https://files.catbox.moe/z604jy.jpeg',
+        sourceUrl: global.channel || 'https://whatsapp.com/channel/0029Vb5oUp43LdQUVViHwc0m',
         mediaType: 1,
         showAdAttribution: true,
         renderLargerThumbnail: true,
