@@ -115,5 +115,6 @@ const handler = async (m, { conn, usedPrefix, command, args, isOwner, isAdmin, i
 handler.help = ['welcome', 'bienvenida', 'antiprivado', 'antiprivate', 'restrict', 'restringir', 'autolevelup', 'autonivel', 'antibot', 'antibots', 'autoaceptar', 'aceptarauto', 'autorechazar', 'rechazarauto', 'autoresponder', 'autorespond', 'antisubbots', 'antibot2', 'modoadmin', 'soloadmin', 'reaction', 'reaccion', 'nsfw', 'modohorny', 'antispam', 'jadibotmd', 'modejadibot', 'subbots', 'detect', 'avisos', 'antilink', 'antifake' 'enable']
 handler.tags = ['nable']
 handler.command = handler.help
+handler.command = ['enable', 'on', 'disable','off']
 
 export default handler
