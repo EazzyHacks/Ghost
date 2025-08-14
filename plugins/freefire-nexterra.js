@@ -3,7 +3,7 @@ const handler = async (m, {conn, text, command}) => {
   const url = yh[Math.floor(Math.random() * yh.length)];
   conn.sendMessage(m.chat, {image: {url: url}, caption: '*🔮 NEXTERRA 🔮*'}, {quoted: m});
 };
-handler.command = /^(nexterra|mapanexterra)$/i;
+handler.command = ['Nexterra']
 handler.tags = ['internet'];
 handler.help = ['mapa'];
 export default handler;
