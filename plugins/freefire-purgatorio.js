@@ -3,7 +3,7 @@ const handler = async (m, {conn, text, command}) => {
   const url = yh[Math.floor(Math.random() * yh.length)];
   conn.sendMessage(m.chat, {image: {url: url}, caption: '*🔮 PURGATORIO 🔮*'}, {quoted: m});
 };
-handler.command = /^(purgatorio|mapapurgatorio)$/i;
+handler.command = ['Purgatorio']
 handler.tags = ['internet'];
 handler.help = ['mapa'];
 export default handler;
