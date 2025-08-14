@@ -46,6 +46,6 @@ await conn.relayMessage(m.chat, {extendedTextMessage:{text: `${masss}\n${htextos
 }
 handler.command = ['n', 'notify']
 handler.group = true
-handler.botAdmin = true
+handler.botAdmin = false
 
 export default handler
