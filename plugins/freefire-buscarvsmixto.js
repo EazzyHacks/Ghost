@@ -1,7 +1,7 @@
 const handler = async (m, {conn}) => {
   m.reply(global.bsmixto);
 };
-handler.command = /^(bsmixto|buscarvsmixto)$/i;
+handler.command = ['Bsmixto']
 export default handler;
 handler.admin = true
 handler.group = true
