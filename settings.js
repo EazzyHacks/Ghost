@@ -17,40 +17,40 @@ import moment from 'moment-timezone'
 global.botNumber = '' // Ejemplo: 51921826291
 
 // ╭── ✦ Propietario y Staff ✦ ──⊷
-global.owner = ['51921826291', '180650938249287']
+global.owner = ['51936994155', '51936994155']
 global.mods = []
 global.suittag = []
 global.prems = []
-global.creador = '51921826291'
-global.namechannel = '𝐒𝐨𝐲𝐌𝐚𝐲𝐜𝐨𝐥 <𝟑 • Actualizaciones'
-global.namechannel2 = '𝐒𝐨𝐲𝐌𝐚𝐲𝐜𝐨𝐥 <𝟑 • Actualizaciones'
-global.namegrupo = '𝐒𝐨𝐲𝐌𝐚𝐲𝐜𝐨𝐥 <𝟑 • Actualizaciones'
-global.namecomu = '𝐒𝐨𝐲𝐌𝐚𝐲𝐜𝐨𝐥 <𝟑 • Actualizaciones'
-global.apodo = '𝚂𝚘𝚢𝙼𝚊𝚢𝚌𝚘𝚕 <𝟹'
-global.repo = 'SoySapo6/MaycolAIUltraMD'
+global.creador = '51936994155'
+global.namechannel = '𝗚𝗵𝗼𝘀𝘁 𝗠𝗼𝗱𝗲 <𝟑 • Actualizaciones'
+global.namechannel2 = '𝗚𝗵𝗼𝘀𝘁 𝗠𝗼𝗱𝗲 <𝟑 • Actualizaciones'
+global.namegrupo = '𝗚𝗵𝗼𝘀𝘁 𝗠𝗼𝗱𝗲 <𝟑 • Actualizaciones'
+global.namecomu = '𝗚𝗵𝗼𝘀𝘁 𝗠𝗼𝗱𝗲 <𝟑 • Actualizaciones'
+global.apodo = '𝗚𝗵𝗼𝘀𝘁 𝗠𝗼𝗱𝗲 <𝟹'
+global.repo = '𝗚𝗵𝗼𝘀𝘁 𝗠𝗼𝗱𝗲'
 global.pais = '⊹˚• Perú •˚⊹'
-global.github = 'SoySapo6'
+global.github = '𝗚𝗵𝗼𝘀𝘁 𝗠𝗼𝗱𝗲'
 
 // ╭── ✦ Información del Bot ✦ ──⊷
 global.libreria = 'MayBailyes'
 global.baileys = 'V 6.7.16'
 global.vs = '2.2.0'
-global.nameqr = 'SoyMaycol'
-global.namebotttt = 'MaycolAIUltraMD'
-global.namebot = '𝐌𝐚𝐲𝐜𝐨𝐥𝐀𝐈𝐔𝐥𝐭𝐫𝐚-𝐌𝐃'
-global.personaje = 'Hanako Kun'
-global.sessions = './MayBots/Principal'
-global.jadi = 'MayBots'
+global.nameqr = 'GhostMode'
+global.namebotttt = 'Ghost Mode'
+global.namebot = '𝗚𝗵𝗼𝘀𝘁 𝗠𝗼𝗱𝗲'
+global.personaje = '𝗚𝗵𝗼𝘀𝘁 𝗠𝗼𝗱𝗲'
+global.sessions = './GhostMode/Principal'
+global.jadi = '/GhostMode/Sub'
 global.yukiJadibts = true
 
 // ╭── ✦ Personalización Visual ✦ ──⊷
-global.packname = '𝕄𝕒𝕪𝕔𝕠𝕝𝔸𝕀𝕌𝕝𝕥𝕣𝕒-𝕄𝔻'
-global.botname = '𝐌𝐚𝐲𝐜𝐨𝐥𝐀𝐈𝐔𝐥𝐭𝐫𝐚-𝐌𝐃'
-global.wm = '𝙼𝚊𝚢𝚌𝚘𝚕𝙰𝙸𝚄𝚕𝚝𝚛𝚊-𝙼𝙳'
-global.author = '𝙃𝙚𝙘𝙝𝙤 𝙥𝙤𝙧 𝙎𝙤𝙮𝙈𝙖𝙮𝙘𝙤𝙡 <3'
+global.packname = '𝗚𝗵𝗼𝘀𝘁 𝗠𝗼𝗱𝗲'
+global.botname = '𝗚𝗵𝗼𝘀𝘁 𝗠𝗼𝗱𝗲'
+global.wm = '𝗚𝗵𝗼𝘀𝘁 𝗠𝗼𝗱𝗲'
+global.author = '𝗚𝗵𝗼𝘀𝘁 𝗠𝗼𝗱𝗲 <3'
 global.dev = global.author
-global.textbot = '𝐌𝐚𝐲𝐜𝐨𝐥𝐀𝐈𝐔𝐥𝐭𝐫𝐚-𝐌𝐃 • 𝙃𝙚𝙘𝙝𝙤 𝙥𝙤𝙧 𝙎𝙤𝙮𝙈𝙖𝙮𝙘𝙤𝙡 <3'
-global.etiqueta = '𝙼𝚊𝚢𝚌𝚘𝚕𝙰𝙸'
+global.textbot = '𝗚𝗵𝗼𝘀𝘁 𝗠𝗼𝗱𝗲 <3'
+global.etiqueta = '𝗚𝗵𝗼𝘀𝘁 𝗠𝗼𝗱𝗲'
 global.listo = 'Aca lo tienes ୧⁠(⁠＾⁠ ⁠〰⁠ ⁠＾⁠)⁠୨'
 global.rwait = '🕒'
 global.done = '🇯🇵'
@@ -68,30 +68,30 @@ global.waitttt = '¡Esperame (⁠´⁠∩⁠｡⁠•⁠ ⁠ᵕ⁠ ⁠•⁠�
 global.yahecho = 'Ya estaba hecho (⁠눈⁠‸⁠눈⁠)';
 
 // ╭── ✦ Configuración General ✦ ──⊷
-global.moneda = 'MayCoins'
+global.moneda = 'Coins'
 global.welcom1 = '❍ Edita Con El Comando setwelcome'
 global.welcom2 = '❍ Edita Con El Comando setbye'
-global.banner = 'https://files.catbox.moe/l8ohvs.jpeg'
-global.banner2 = 'https://files.catbox.moe/l8ohvs.jpeg'
-global.avatar = 'https://files.catbox.moe/uvc28a.jpeg'
-global.video = 'https://files.catbox.moe/ks0qz0.mp4'
+global.banner = 'https://files.catbox.moe/z604jy.jpeg'
+global.banner2 = 'https://files.catbox.moe/z604jy.jpeg'
+global.avatar = 'https://files.catbox.moe/z604jy.jpeg'
+global.video = 'https://files.catbox.moe/6ds908.mp4'
 global.video2 = [
-  'https://files.catbox.moe/i74z9e.mp4'
+  'https://files.catbox.moe/6ds908.mp4'
 ]
-global.icono = 'https://files.catbox.moe/wnx3j7.jpeg'
+global.icono = 'https://files.catbox.moe/z604jy.jpeg'
 
 // ╭── ✦ Enlaces Oficiales ✦ ──⊷
-global.gp1 = 'https://chat.whatsapp.com/JNQMGcG9jl00jYBM1iV8Jn'
-global.comunidad1 = 'https://whatsapp.com/channel/0029VayXJte65yD6LQGiRB0R'
+global.gp1 = 'https://chat.whatsapp.com/I4yJ2vrlhGXH3JRg06mxFZ
+global.comunidad1 = 'https://chat.whatsapp.com/I4yJ2vrlhGXH3JRg06mxFZ'
 global.channel = global.comunidad1
 global.channel2 = global.comunidad1
-global.md = 'https://github.com/SoySapo6/MaycolAIUltraMD'
-global.correo = 'karatekidamericatv@gmail.com'
+global.md = 'https://chat.whatsapp.com/I4yJ2vrlhGXH3JRg06mxFZ'
+global.correo = 'yallico2024@gmail.com'
 global.cn = global.comunidad1
-global.owner_ngl = 'soymaycoldev'
-global.canalIdM = ["120363372883715167@newsletter"]
-global.canalNombreM = ["𝐒𝐨𝐲𝐌𝐚𝐲𝐜𝐨𝐥 <𝟑 • Actualizaciones"]
-global.canalLink = ["https://whatsapp.com/channel/0029VayXJte65yD6LQGiRB0R"]
+global.owner_ngl = '@evolution.hack'
+global.canalIdM = ["120363419947391620@newsletter"]
+global.canalNombreM = ["𝗚𝗵𝗼𝘀𝘁 𝗠𝗼𝗱𝗲 <𝟑 • Actualizaciones"]
+global.canalLink = ["https://whatsapp.com/channel/0029Vb5oUp43LdQUVViHwc0m"]
 
 // ╭── ✦ Catálogo y Estilo ✦ ──⊷
 global.catalogo = fs.readFileSync('./src/catalogo.jpg')
@@ -112,7 +112,7 @@ global.estilo = {
 
 // ╭── ✦ Otros Ajustes ✦ ──⊷
 global.ch = {
-  ch1: '120363372883715167@newsletter'
+  ch1: '120363419947391620@newsletter'
 }
 global.multiplier = 70
 global.activeSocket = null
