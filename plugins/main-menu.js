@@ -47,7 +47,7 @@ let handler = async (m, { conn, args }) => {
 
   // Crear botones interactivos
   let buttons = [
-    { buttonId: '.comprarbot', buttonText: { displayText: '♥ Ghost Mode ♥' }, type: 1 },
+    { buttonId: '.menu2', buttonText: { displayText: '♥ Menu Free Fire ♥' }, type: 1 },
     { buttonId: '.staff', buttonText: { displayText: '♦ Staff ♦' }, type: 1 },
     { buttonId: '.menucompleto', buttonText: { displayText: '♣ Menu Completo ♣' }, type: 1 }
   ]
