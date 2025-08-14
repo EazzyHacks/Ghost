@@ -1,7 +1,7 @@
 const handler = async (m, {conn}) => {
   m.reply(global.menu2);
 };
-handler.command = /^(menu2|menu2)$/i;
+handler.command = ['menu2', 'menu2']
 export default handler;
 
 global.menu2 = `
