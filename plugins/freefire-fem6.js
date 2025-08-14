@@ -29,7 +29,7 @@ let handler = async (m, { conn, args }) => {
 
   let plantilla = `
 ⏰| 𝑯𝒐𝒓𝒂:  ${horaUsuario}🇦🇷  ${horaAdelantada}🇵🇪
-🏯| 𝑴𝒐𝒅𝒐: By Masc
+🏯| 𝑴𝒐𝒅𝒐: By Fem
 ⚔️| 𝑹𝒊𝒗𝒂𝒍: ${modalidad}
 
 ╭── ⋆⋅☆⋅⋆ ──┈┈
@@ -61,9 +61,9 @@ let handler = async (m, { conn, args }) => {
   }
 }
 
-handler.help = ['Masc6']
+handler.help = ['Fem6']
 handler.tags = ['ffsurr']
-handler.command = /^(Masc6)$/i
+handler.command = ['Fem6']
 handler.group = true
 handler.admin = true
 
@@ -102,7 +102,7 @@ handler.before = async function (m) {
 
   let plantilla = `
 ⏰| 𝑯𝒐𝒓𝒂:  ${data.horaUsuario} 🇦🇷  ${data.horaAdelantada} 🇵🇪
-🏯| 𝑴𝒐𝒅𝒐: By Masc
+🏯| 𝑴𝒐𝒅𝒐: By Fem
 ⚔️| 𝑹𝒊𝒗𝒂𝒍:  ${data.modalidad}
 
 ╭── ⋆⋅☆⋅⋆ ──┈┈
