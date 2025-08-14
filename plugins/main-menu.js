@@ -38,7 +38,7 @@ let handler = async (m, { conn, args }) => {
 👥 Espíritus: ${totalreg} Espiritus
 ⌚ Hora: ${hour}
 
-> Hecho con amor por: *_${global.apodo}_* y *_SoyMaycol <3_* (⁠◍⁠•⁠ᴗ⁠•⁠◍⁠)⁠❤
+> Hecho con amor por: *_${global.apodo}_* y *_@evolution.hack <3_* (⁠◍⁠•⁠ᴗ⁠•⁠◍⁠)⁠❤
 
 ≪──── ⋆𓆩✧𓆪⋆ ────≫
 
@@ -47,7 +47,7 @@ let handler = async (m, { conn, args }) => {
 
   // Crear botones interactivos
   let buttons = [
-    { buttonId: '.code', buttonText: { displayText: '♥ SubBot ♥' }, type: 1 },
+    { buttonId: '.comprarbot', buttonText: { displayText: '♥ Ghost Mode ♥' }, type: 1 },
     { buttonId: '.staff', buttonText: { displayText: '♦ Staff ♦' }, type: 1 },
     { buttonId: '.menucompleto', buttonText: { displayText: '♣ Menu Completo ♣' }, type: 1 }
   ]
